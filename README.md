@@ -1,7 +1,7 @@
 
-# 👨🏻‍💻 Herbert Mayorga &mdash; @HerbertM21
+# 👨🏻‍💻 Hello everyone, I am Herbert Mayorga. 👋
 
-Hello everyone, I am Herbert Mayorga, a future computer science engineer, with a good level of analysis and a desire to learn more every day.
+I'm a future computer science engineer, with a good level of analysis and a desire to learn more every day.
 
 ## 🖱 Interests
 - Front-end programming
