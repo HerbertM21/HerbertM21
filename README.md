@@ -29,3 +29,11 @@ I'm a future computer science engineer, with a good level of analysis and a desi
 You can send me an email to <a href="mailto:herbert.mayorga@alu.ucm.cl">herbert.mayorga@alu.ucm.cl</a>.  
 <br/>
 <br/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertm21&show_icons=true&include_all_commits=true&count_private=true&bg_color=141321&title_color=7631f2&text_color=ffffff&border_radius=10&locale=en&text_bold=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertm21&layout=compact&langs_count=7&bg_color=141321&title_color=7631f2&text_color=ffffff&border_radius=10&locale=en&text_bold=true"/>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
