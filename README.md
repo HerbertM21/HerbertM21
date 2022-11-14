@@ -26,7 +26,7 @@ I'm a future computer science engineer, with a good level of analysis and a desi
 </table>
 
 ## 📨 Contact me
-You can send me an email to <a href="mailto:herbert.mayorga@alu.ucm.cl">herbert.mayorga@alu.ucm.cl</a>.  
+You can send me an email to <a href="mailto:herbert.mayorga.jbs@gmail.com">herbert.mayorga.jbs@gmail.com</a>.  
 <br/>
 <br/>
 <div align="center">
