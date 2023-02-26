@@ -37,4 +37,5 @@ You can send me an email to <a href="mailto:herbert.mayorga.jbs@gmail.com">herbe
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertm21&layout=compact&langs_count=7&bg_color=141321&title_color=7631f2&text_color=ffffff&border_radius=10&locale=en&text_bold=true"/>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/HerbertM21/HerbertM21/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
