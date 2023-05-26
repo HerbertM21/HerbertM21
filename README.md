@@ -23,6 +23,8 @@ I'm a future computer science engineer, with a good level of analysis and a desi
 <td><img align="center" alt="IntelliJ Idea" width="32px" src="https://i.imgur.com/Agb22jo.png" ></td>
 <td><img align="center" alt="Bash" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" ></td>
 <td><img align="center" alt="GitHub" width="32px" src="https://github.com/fluidicon.png" ></td>
+<td><img align="center" alt="MySQL" width="45px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"> </td>
+<td><img align="center" alt="SQLite" width="32px" src="https://www.aprendexojo.com/wp-content/uploads/2018/03/Sqlite.png"> </td>
 </tr>
 </table>
 
