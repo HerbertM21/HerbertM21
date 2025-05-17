@@ -13,7 +13,8 @@ I'm a future computer science engineer, with a good level of analysis and a desi
 <tr>
 <td><img align="center" alt="C" width="42px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"> </td>
 <td><img align="center" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> </td>
-<td><img align="center" alt="Rust" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"> </td>
+<td><img align="center" alt="Rust" width="32px" src="https://i.blogs.es/53fd11/rustician-rust-lenguaje/1366_2000.png"> </td>
+<td><img align="center" alt="Golang" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png"> </td>
 <td><img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></td>
 <td><img align="center" alt="HTML" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" ></td>
 <td><img align="center" alt="CSS" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" ></td>
