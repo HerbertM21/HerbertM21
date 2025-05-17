@@ -6,7 +6,7 @@ I'm a future computer science engineer, with a good level of analysis and a desi
 ## 🖱 Interests
 - Ethical hacking and cybersecurity 🔐
 - Back-end programming 💻
-- Data Science 📊
+- DevOPS 🌐
 
 ## 💻 Languages, tools  and skills
 <table>
